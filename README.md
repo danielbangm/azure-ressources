@@ -1,6 +1,6 @@
 ![image](https://github.com/danielbangm/azure-ressources/assets/22795502/074de211-4659-4e32-93b0-52a7f8eed69e)
 
-<h1>Azure ressources - Prerequisites and ressource creation</h1>
+<h1>Azure ressources - Prerequisites and ressources creation</h1>
 This tutorial creates some compute and networking ressources in Microsoft Azure and do some networking activities.
 
 <h2>Environment and Technologies Used</h2>
